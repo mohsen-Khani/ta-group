@@ -112,13 +112,14 @@ body{font-family: "XB Niloofar"}
 }
 .imp-text{
     color:crimson;
+    font-weight: bold;
 }
 p{
     padding-bottom: 20px;
 }
 
 /* Style the button that is used to open and close the collapsible content */
-.collapsible {
+.collapsible , .not-collapsible {
     background-color: lightblue;
     color: black;
     cursor: pointer;
@@ -156,7 +157,7 @@ p{
     color: black;
 }
 .top-pad{
-    padding-top: 5%;
+    padding-top: 3%;
 }
 .mediumline{
     width: 50%;
