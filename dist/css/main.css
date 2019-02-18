@@ -166,3 +166,12 @@ p{
     width: 90%;
     border-top-color: chocolate;
 }
+.boxed{
+    border: 2px outset darkorange;
+    border-radius: 15px;
+    padding: 3%;
+    margin-bottom: 2%;
+}
+.centered-text{
+    text-align: center;
+}
