@@ -185,3 +185,17 @@ p{
     clear: both;
     display: table;
 }
+table{
+    width: 100%;
+}
+th{
+    text-align: right;
+}
+td{
+    color:green;
+    max-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre-line;
+    padding-right: 2%;
+}
