@@ -199,3 +199,7 @@ td{
     white-space: pre-line;
     padding-right: 2%;
 }
+div.inline-text{
+    display: inline;
+    color: crimson;
+}
