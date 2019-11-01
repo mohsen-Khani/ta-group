@@ -199,6 +199,9 @@ td{
     white-space: pre-line;
     padding-right: 2%;
 }
+td div{
+    font-size: small;
+}
 div.inline-text{
     display: inline;
     color: crimson;
